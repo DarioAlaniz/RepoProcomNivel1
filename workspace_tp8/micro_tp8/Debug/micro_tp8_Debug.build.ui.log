@@ -1,0 +1,39 @@
+2020-10-29T00:16:19.560630400255-00:16:19 **** Incremental Build of configuration Debug for project micro_tp8 ****
+000-make all 
+000-'Building file: ../src/protocolo_main1.c'
+000-'Invoking: MicroBlaze gcc compiler'
+000-mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/protocolo_main1.o" -ID:/dario/fulgor/workspace_tp8/top_tp8/export/top_tp8/sw/top_tp8/standalone_domain/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/protocolo_main1.d" -MT"src/protocolo_main1.o" -o "src/protocolo_main1.o" "../src/protocolo_main1.c"
+000-../src/protocolo_main1.c: In function 'main':
+000/micro_tp8/src/protocolo_main1.c104-1-1implicit declaration of function 'read'; did you mean 'fread'? [-Wimplicit-function-declaration]1-../src/protocolo_main1.c:104:3: warning: implicit declaration of function 'read'; did you mean 'fread'? [-Wimplicit-function-declaration]
+000-   read(stdin,&trama,1);   //lee el registro de entrada del uart y lo guarda en la poscion de memoria de cabesera y lea un byte
+000-   ^~~~
+000-   fread
+000/micro_tp8/src/protocolo_main1.c112-1-1implicit declaration of function 'XUartLite_RecvByte'; did you mean 'XUartLite_Recv'? [-Wimplicit-function-declaration]1-../src/protocolo_main1.c:112:19: warning: implicit declaration of function 'XUartLite_RecvByte'; did you mean 'XUartLite_Recv'? [-Wimplicit-function-declaration]
+000-     datos_rec[i]= XUartLite_RecvByte((&uart_module)->RegBaseAddress);  //obtengo cada byte
+000-                   ^~~~~~~~~~~~~~~~~~
+000-                   XUartLite_Recv
+000/micro_tp8/src/protocolo_main1.c57-1-1unused variable 'Error_Q' [-Wunused-variable]1-../src/protocolo_main1.c:57:12: warning: unused variable 'Error_Q' [-Wunused-variable]
+000-  u64 Ber_Q,Error_Q;
+000-            ^~~~~~~
+000/micro_tp8/src/protocolo_main1.c55-1-1variable 'Q_error_h' set but not used [-Wunused-but-set-variable]1-../src/protocolo_main1.c:55:24: warning: variable 'Q_error_h' set but not used [-Wunused-but-set-variable]
+000-  u32 Q_ber_h,Q_error_l,Q_error_h;
+000-                        ^~~~~~~~~
+000/micro_tp8/src/protocolo_main1.c55-1-1variable 'Q_error_l' set but not used [-Wunused-but-set-variable]1-../src/protocolo_main1.c:55:14: warning: variable 'Q_error_l' set but not used [-Wunused-but-set-variable]
+000-  u32 Q_ber_h,Q_error_l,Q_error_h;
+000-              ^~~~~~~~~
+000-'Finished building: ../src/protocolo_main1.c'
+000-' '
+000-'Building target: micro_tp8.elf'
+000-'Invoking: MicroBlaze gcc linker'
+000-mb-gcc -Wl,-T -Wl,../src/lscript.ld -LD:/dario/fulgor/workspace_tp8/top_tp8/export/top_tp8/sw/top_tp8/standalone_domain/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "micro_tp8.elf"  ./src/platform.o ./src/protocolo_main1.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-'Finished building target: micro_tp8.elf'
+000-' '
+000-'Invoking: MicroBlaze Print Size'
+000-mb-size micro_tp8.elf  |tee "micro_tp8.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000-  10880	    668	   3252	  14800	   39d0	micro_tp8.elf
+000-'Finished building: micro_tp8.elf.size'
+000-' '
+00255-
+00:16:21 Build Finished (took 2s.70ms)
+

@@ -1,0 +1,1237 @@
+TRACE::2020-10-29.01:14:11::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:11::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:11::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Do not have an existing db opened. 
+TRACE::2020-10-29.01:14:17::SCWPlatform::Opened new HwDB with name top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWWriter::formatted JSON is {
+	"platformName":	"top_tp8",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top_tp8",
+	"platHandOff":	"D:/dario/fulgor/programas_vivado/micro_tp8/top_tp8.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top_tp8.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2020-10-29.01:14:17::SCWWriter::formatted JSON is {
+	"platformName":	"top_tp8",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top_tp8",
+	"platHandOff":	"D:/dario/fulgor/programas_vivado/micro_tp8/top_tp8.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top_tp8.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top_tp8",
+	"systems":	[{
+			"systemName":	"top_tp8",
+			"systemDesc":	"top_tp8",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top_tp8"
+		}]
+}
+TRACE::2020-10-29.01:14:17::SCWPlatform::Boot application domains not present, creating them
+TRACE::2020-10-29.01:14:17::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2020-10-29.01:14:17::SCWWriter::formatted JSON is {
+	"platformName":	"top_tp8",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top_tp8",
+	"platHandOff":	"D:/dario/fulgor/programas_vivado/micro_tp8/top_tp8.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top_tp8.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top_tp8",
+	"systems":	[{
+			"systemName":	"top_tp8",
+			"systemDesc":	"top_tp8",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top_tp8"
+		}]
+}
+TRACE::2020-10-29.01:14:17::SCWWriter::formatted JSON is {
+	"platformName":	"top_tp8",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top_tp8",
+	"platHandOff":	"D:/dario/fulgor/programas_vivado/micro_tp8/top_tp8.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top_tp8.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top_tp8",
+	"systems":	[{
+			"systemName":	"top_tp8",
+			"systemDesc":	"top_tp8",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top_tp8"
+		}]
+}
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:17::SCWDomain::checking for install qemu data   : 
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:17::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2020-10-29.01:14:17::SCWMssOS::No sw design opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::mss does not exists at D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::Creating sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::Adding the swdes entry, created swdb D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss with des name D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::updating the scw layer changes to swdes at   D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::Writing mss at D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::Completed writing the mss file at D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp
+TRACE::2020-10-29.01:14:17::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2020-10-29.01:14:17::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:17::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2020-10-29.01:14:17::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:17::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2020-10-29.01:14:17::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:17::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2020-10-29.01:14:17::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWWriter::formatted JSON is {
+	"platformName":	"top_tp8",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top_tp8",
+	"platHandOff":	"D:/dario/fulgor/programas_vivado/micro_tp8/top_tp8.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top_tp8.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top_tp8",
+	"systems":	[{
+			"systemName":	"top_tp8",
+			"systemDesc":	"top_tp8",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top_tp8",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on u_Micro_2_microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"u_Micro_2_microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:17::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:17::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss||
+
+TRACE::2020-10-29.01:14:17::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:17::SCWMssOS::Completed writing the mss file at D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp
+TRACE::2020-10-29.01:14:17::SCWMssOS::Forcing BSP Sources regeneration.
+LOG::2020-10-29.01:14:23::SCWPlatform::Started generating the artifacts platform top_tp8
+TRACE::2020-10-29.01:14:23::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-10-29.01:14:23::SCWPlatform::Started generating the artifacts for system configuration top_tp8
+LOG::2020-10-29.01:14:23::SCWSystem::Checking the domain standalone_domain
+LOG::2020-10-29.01:14:23::SCWSystem::Not a boot domain 
+LOG::2020-10-29.01:14:23::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2020-10-29.01:14:23::SCWDomain::Generating domain artifcats
+TRACE::2020-10-29.01:14:23::SCWMssOS::Generating standalone artifcats
+TRACE::2020-10-29.01:14:23::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-10-29.01:14:23::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:23::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:23::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss||
+
+KEYINFO::2020-10-29.01:14:23::SCWMssOS::Could not open the swdb for D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+KEYINFO::2020-10-29.01:14:23::SCWMssOS::Could not open the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss is not found
+
+TRACE::2020-10-29.01:14:23::SCWMssOS::Cleared the swdb table entry
+TRACE::2020-10-29.01:14:23::SCWMssOS::No sw design opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWMssOS::mss exists loading the mss file  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWMssOS::Opened the sw design from mss  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWMssOS::Adding the swdes entry D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2020-10-29.01:14:23::SCWMssOS::updating the scw layer about changes
+TRACE::2020-10-29.01:14:23::SCWMssOS::Opened the sw design.  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWMssOS::Completed writing the mss file at D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp
+TRACE::2020-10-29.01:14:23::SCWMssOS::Mss edits present, copying mssfile into export location D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-10-29.01:14:23::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-10-29.01:14:23::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2020-10-29.01:14:23::SCWMssOS::skipping the bsp build ... 
+TRACE::2020-10-29.01:14:23::SCWMssOS::Copying to export directory.
+TRACE::2020-10-29.01:14:23::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-10-29.01:14:23::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2020-10-29.01:14:23::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2020-10-29.01:14:23::SCWSystem::Completed Processing the sysconfig top_tp8
+LOG::2020-10-29.01:14:23::SCWPlatform::Completed generating the artifacts for system configuration top_tp8
+TRACE::2020-10-29.01:14:23::SCWPlatform::Started preparing the platform 
+TRACE::2020-10-29.01:14:23::SCWSystem::Writing the bif file for system config top_tp8
+TRACE::2020-10-29.01:14:23::SCWSystem::dir created 
+TRACE::2020-10-29.01:14:23::SCWSystem::Writing the bif 
+TRACE::2020-10-29.01:14:23::SCWPlatform::Started writing the spfm file 
+TRACE::2020-10-29.01:14:23::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-10-29.01:14:23::SCWPlatform::Completed generating the platform
+TRACE::2020-10-29.01:14:23::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:23::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:23::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:23::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:23::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:23::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:23::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:23::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:23::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:23::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWWriter::formatted JSON is {
+	"platformName":	"top_tp8",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top_tp8",
+	"platHandOff":	"D:/dario/fulgor/programas_vivado/micro_tp8/top_tp8.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top_tp8.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top_tp8",
+	"systems":	[{
+			"systemName":	"top_tp8",
+			"systemDesc":	"top_tp8",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top_tp8",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on u_Micro_2_microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"u_Micro_2_microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"a2238e36e978e3702a708ae709021afc",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-10-29.01:14:23::SCWPlatform::updated the xpfm file.
+TRACE::2020-10-29.01:14:23::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:23::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:23::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:23::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:23::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:23::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWWriter::formatted JSON is {
+	"platformName":	"top_tp8",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top_tp8",
+	"platHandOff":	"D:/dario/fulgor/programas_vivado/micro_tp8/top_tp8.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top_tp8.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top_tp8",
+	"systems":	[{
+			"systemName":	"top_tp8",
+			"systemDesc":	"top_tp8",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top_tp8",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on u_Micro_2_microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"u_Micro_2_microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"a2238e36e978e3702a708ae709021afc",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWWriter::formatted JSON is {
+	"platformName":	"top_tp8",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top_tp8",
+	"platHandOff":	"D:/dario/fulgor/programas_vivado/micro_tp8/top_tp8.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top_tp8.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top_tp8",
+	"systems":	[{
+			"systemName":	"top_tp8",
+			"systemDesc":	"top_tp8",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top_tp8",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on u_Micro_2_microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"u_Micro_2_microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"a2238e36e978e3702a708ae709021afc",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2020-10-29.01:14:24::SCWPlatform::Started generating the artifacts platform top_tp8
+TRACE::2020-10-29.01:14:24::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-10-29.01:14:24::SCWPlatform::Started generating the artifacts for system configuration top_tp8
+LOG::2020-10-29.01:14:24::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2020-10-29.01:14:24::SCWDomain::Generating domain artifcats
+TRACE::2020-10-29.01:14:24::SCWMssOS::Generating standalone artifcats
+TRACE::2020-10-29.01:14:24::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::Completed writing the mss file at D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp
+TRACE::2020-10-29.01:14:24::SCWMssOS::Mss edits present, copying mssfile into export location D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-10-29.01:14:24::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-10-29.01:14:24::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2020-10-29.01:14:24::SCWMssOS::skipping the bsp build ... 
+TRACE::2020-10-29.01:14:24::SCWMssOS::Copying to export directory.
+TRACE::2020-10-29.01:14:24::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-10-29.01:14:24::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2020-10-29.01:14:24::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2020-10-29.01:14:24::SCWSystem::Completed Processing the sysconfig top_tp8
+LOG::2020-10-29.01:14:24::SCWPlatform::Completed generating the artifacts for system configuration top_tp8
+TRACE::2020-10-29.01:14:24::SCWPlatform::Started preparing the platform 
+TRACE::2020-10-29.01:14:24::SCWSystem::Writing the bif file for system config top_tp8
+TRACE::2020-10-29.01:14:24::SCWSystem::dir created 
+TRACE::2020-10-29.01:14:24::SCWSystem::Writing the bif 
+TRACE::2020-10-29.01:14:24::SCWPlatform::Started writing the spfm file 
+TRACE::2020-10-29.01:14:24::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-10-29.01:14:24::SCWPlatform::Completed generating the platform
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:14:24::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:14:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:14:24::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:14:24::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:14:24::SCWWriter::formatted JSON is {
+	"platformName":	"top_tp8",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top_tp8",
+	"platHandOff":	"D:/dario/fulgor/programas_vivado/micro_tp8/top_tp8.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top_tp8.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top_tp8",
+	"systems":	[{
+			"systemName":	"top_tp8",
+			"systemDesc":	"top_tp8",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top_tp8",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on u_Micro_2_microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"u_Micro_2_microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"a2238e36e978e3702a708ae709021afc",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-10-29.01:14:24::SCWPlatform::updated the xpfm file.
+LOG::2020-10-29.01:16:54::SCWPlatform::Started generating the artifacts platform top_tp8
+TRACE::2020-10-29.01:16:54::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-10-29.01:16:54::SCWPlatform::Started generating the artifacts for system configuration top_tp8
+LOG::2020-10-29.01:16:54::SCWSystem::Checking the domain standalone_domain
+LOG::2020-10-29.01:16:54::SCWSystem::Not a boot domain 
+LOG::2020-10-29.01:16:54::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2020-10-29.01:16:54::SCWDomain::Generating domain artifcats
+TRACE::2020-10-29.01:16:54::SCWMssOS::Generating standalone artifcats
+TRACE::2020-10-29.01:16:54::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-10-29.01:16:54::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:16:54::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:16:54::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:16:54::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:16:54::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:16:54::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:16:54::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:16:54::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:16:54::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:16:54::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:16:54::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:16:54::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:16:54::SCWMssOS::Completed writing the mss file at D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp
+TRACE::2020-10-29.01:16:54::SCWMssOS::Mss edits present, copying mssfile into export location D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:16:54::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-10-29.01:16:54::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-10-29.01:16:54::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2020-10-29.01:16:54::SCWMssOS::doing bsp build ... 
+TRACE::2020-10-29.01:16:54::SCWMssOS::System Command Ran  D: & cd  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp & make 
+TRACE::2020-10-29.01:16:55::SCWMssOS::"Running Make include in u_Micro_2_microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2020-10-29.01:16:55::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/bram_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+TRACE::2020-10-29.01:16:55::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-secti
+TRACE::2020-10-29.01:16:55::SCWMssOS::ons -Wall -Wextra"
+
+TRACE::2020-10-29.01:16:55::SCWMssOS::"Running Make include in u_Micro_2_microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2020-10-29.01:16:55::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/cpu_v2_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+TRACE::2020-10-29.01:16:55::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-secti
+TRACE::2020-10-29.01:16:55::SCWMssOS::ons -Wall -Wextra"
+
+TRACE::2020-10-29.01:16:55::SCWMssOS::"Running Make include in u_Micro_2_microblaze_0/libsrc/gpio_v4_5/src"
+
+TRACE::2020-10-29.01:16:55::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/gpio_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+TRACE::2020-10-29.01:16:55::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-secti
+TRACE::2020-10-29.01:16:55::SCWMssOS::ons -Wall -Wextra"
+
+TRACE::2020-10-29.01:16:55::SCWMssOS::"Running Make include in u_Micro_2_microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2020-10-29.01:16:55::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/standalone_v7_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER
+TRACE::2020-10-29.01:16:55::SCWMssOS::=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata
+TRACE::2020-10-29.01:16:55::SCWMssOS::-sections -Wall -Wextra"
+
+TRACE::2020-10-29.01:16:56::SCWMssOS::"Running Make include in u_Micro_2_microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2020-10-29.01:16:56::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/uartlite_v3_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=m
+TRACE::2020-10-29.01:16:56::SCWMssOS::b-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-s
+TRACE::2020-10-29.01:16:56::SCWMssOS::ections -Wall -Wextra"
+
+TRACE::2020-10-29.01:16:56::SCWMssOS::"Running Make libs in u_Micro_2_microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2020-10-29.01:16:56::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/bram_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2020-10-29.01:16:56::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2020-10-29.01:16:56::SCWMssOS:: -Wall -Wextra"
+
+TRACE::2020-10-29.01:16:57::SCWMssOS::"Compiling bram"
+
+TRACE::2020-10-29.01:16:58::SCWMssOS::"Running Make libs in u_Micro_2_microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2020-10-29.01:16:58::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/cpu_v2_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2020-10-29.01:16:58::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2020-10-29.01:16:58::SCWMssOS:: -Wall -Wextra"
+
+TRACE::2020-10-29.01:16:58::SCWMssOS::"Compiling cpu"
+
+TRACE::2020-10-29.01:16:59::SCWMssOS::"Running Make libs in u_Micro_2_microblaze_0/libsrc/gpio_v4_5/src"
+
+TRACE::2020-10-29.01:16:59::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/gpio_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2020-10-29.01:16:59::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2020-10-29.01:16:59::SCWMssOS:: -Wall -Wextra"
+
+TRACE::2020-10-29.01:16:59::SCWMssOS::"Compiling gpio"
+
+TRACE::2020-10-29.01:17:00::SCWMssOS::"Running Make libs in u_Micro_2_microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2020-10-29.01:17:00::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/standalone_v7_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb
+TRACE::2020-10-29.01:17:00::SCWMssOS::-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-se
+TRACE::2020-10-29.01:17:00::SCWMssOS::ctions -Wall -Wextra"
+
+TRACE::2020-10-29.01:17:01::SCWMssOS::"Compiling standalone";
+
+TRACE::2020-10-29.01:17:07::SCWMssOS::"Running Make libs in u_Micro_2_microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2020-10-29.01:17:07::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/uartlite_v3_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-a
+TRACE::2020-10-29.01:17:07::SCWMssOS::r" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sect
+TRACE::2020-10-29.01:17:07::SCWMssOS::ions -Wall -Wextra"
+
+TRACE::2020-10-29.01:17:07::SCWMssOS::"Compiling uartlite"
+
+TRACE::2020-10-29.01:17:08::SCWMssOS::'Finished building libraries'
+
+TRACE::2020-10-29.01:17:08::SCWMssOS::Copying to export directory.
+TRACE::2020-10-29.01:17:08::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-10-29.01:17:08::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2020-10-29.01:17:08::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2020-10-29.01:17:08::SCWSystem::Completed Processing the sysconfig top_tp8
+LOG::2020-10-29.01:17:08::SCWPlatform::Completed generating the artifacts for system configuration top_tp8
+TRACE::2020-10-29.01:17:08::SCWPlatform::Started preparing the platform 
+TRACE::2020-10-29.01:17:08::SCWSystem::Writing the bif file for system config top_tp8
+TRACE::2020-10-29.01:17:08::SCWSystem::dir created 
+TRACE::2020-10-29.01:17:08::SCWSystem::Writing the bif 
+TRACE::2020-10-29.01:17:08::SCWPlatform::Started writing the spfm file 
+TRACE::2020-10-29.01:17:08::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-10-29.01:17:08::SCWPlatform::Completed generating the platform
+TRACE::2020-10-29.01:17:08::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:17:08::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:17:08::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:17:08::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:17:08::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:17:08::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:17:08::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:17:08::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:17:08::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:17:08::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:17:08::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:17:08::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:17:08::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:17:08::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:17:08::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:17:08::SCWWriter::formatted JSON is {
+	"platformName":	"top_tp8",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top_tp8",
+	"platHandOff":	"D:/dario/fulgor/programas_vivado/micro_tp8/top_tp8.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top_tp8.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top_tp8",
+	"systems":	[{
+			"systemName":	"top_tp8",
+			"systemDesc":	"top_tp8",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top_tp8",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on u_Micro_2_microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"u_Micro_2_microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"a2238e36e978e3702a708ae709021afc",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-10-29.01:17:08::SCWPlatform::updated the xpfm file.
+TRACE::2020-10-29.01:17:08::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:17:08::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:17:08::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:17:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:17:08::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:17:08::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:17:08::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:18::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:18::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:18::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Do not have an existing db opened. 
+TRACE::2020-10-29.01:57:23::SCWPlatform::Opened new HwDB with name top_tp8_0
+TRACE::2020-10-29.01:57:23::SCWReader::Active system found as  top_tp8
+TRACE::2020-10-29.01:57:23::SCWReader::Handling sysconfig top_tp8
+TRACE::2020-10-29.01:57:23::SCWDomain::checking for install qemu data   : 
+TRACE::2020-10-29.01:57:23::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:57:23::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:57:23::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:57:23::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:23::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2020-10-29.01:57:23::SCWMssOS::No sw design opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:23::SCWMssOS::mss exists loading the mss file  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:23::SCWMssOS::Opened the sw design from mss  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:23::SCWMssOS::Adding the swdes entry D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2020-10-29.01:57:23::SCWMssOS::updating the scw layer about changes
+TRACE::2020-10-29.01:57:23::SCWMssOS::Opened the sw design.  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:23::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2020-10-29.01:57:23::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2020-10-29.01:57:23::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:57:23::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:23::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:57:23::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:23::SCWReader::No isolation master present  
+LOG::2020-10-29.01:57:23::SCWPlatform::Started generating the artifacts platform top_tp8
+TRACE::2020-10-29.01:57:23::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-10-29.01:57:23::SCWPlatform::Started generating the artifacts for system configuration top_tp8
+LOG::2020-10-29.01:57:23::SCWSystem::Checking the domain standalone_domain
+LOG::2020-10-29.01:57:23::SCWSystem::Not a boot domain 
+LOG::2020-10-29.01:57:23::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2020-10-29.01:57:23::SCWDomain::Generating domain artifcats
+TRACE::2020-10-29.01:57:23::SCWMssOS::Generating standalone artifcats
+TRACE::2020-10-29.01:57:23::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-10-29.01:57:23::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:23::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:57:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:57:23::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:23::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:57:23::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:23::SCWMssOS::Completed writing the mss file at D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp
+TRACE::2020-10-29.01:57:23::SCWMssOS::Mss edits present, copying mssfile into export location D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:23::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-10-29.01:57:23::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-10-29.01:57:23::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2020-10-29.01:57:23::SCWMssOS::doing bsp build ... 
+TRACE::2020-10-29.01:57:23::SCWMssOS::System Command Ran  D: & cd  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp & make 
+TRACE::2020-10-29.01:57:24::SCWMssOS::"Running Make include in u_Micro_2_microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2020-10-29.01:57:24::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/bram_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+TRACE::2020-10-29.01:57:24::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-secti
+TRACE::2020-10-29.01:57:24::SCWMssOS::ons -Wall -Wextra"
+
+TRACE::2020-10-29.01:57:24::SCWMssOS::"Running Make include in u_Micro_2_microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2020-10-29.01:57:24::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/cpu_v2_10/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+TRACE::2020-10-29.01:57:24::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-secti
+TRACE::2020-10-29.01:57:24::SCWMssOS::ons -Wall -Wextra"
+
+TRACE::2020-10-29.01:57:24::SCWMssOS::"Running Make include in u_Micro_2_microblaze_0/libsrc/gpio_v4_5/src"
+
+TRACE::2020-10-29.01:57:24::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/gpio_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+TRACE::2020-10-29.01:57:24::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-secti
+TRACE::2020-10-29.01:57:24::SCWMssOS::ons -Wall -Wextra"
+
+TRACE::2020-10-29.01:57:24::SCWMssOS::"Running Make include in u_Micro_2_microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2020-10-29.01:57:24::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/standalone_v7_1/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER
+TRACE::2020-10-29.01:57:24::SCWMssOS::=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata
+TRACE::2020-10-29.01:57:24::SCWMssOS::-sections -Wall -Wextra"
+
+TRACE::2020-10-29.01:57:25::SCWMssOS::"Running Make include in u_Micro_2_microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2020-10-29.01:57:25::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/uartlite_v3_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=m
+TRACE::2020-10-29.01:57:25::SCWMssOS::b-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-s
+TRACE::2020-10-29.01:57:25::SCWMssOS::ections -Wall -Wextra"
+
+TRACE::2020-10-29.01:57:25::SCWMssOS::"Running Make libs in u_Micro_2_microblaze_0/libsrc/bram_v4_3/src"
+
+TRACE::2020-10-29.01:57:25::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/bram_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2020-10-29.01:57:25::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2020-10-29.01:57:25::SCWMssOS:: -Wall -Wextra"
+
+TRACE::2020-10-29.01:57:26::SCWMssOS::"Compiling bram"
+
+TRACE::2020-10-29.01:57:28::SCWMssOS::"Running Make libs in u_Micro_2_microblaze_0/libsrc/cpu_v2_10/src"
+
+TRACE::2020-10-29.01:57:28::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/cpu_v2_10/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2020-10-29.01:57:28::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2020-10-29.01:57:28::SCWMssOS:: -Wall -Wextra"
+
+TRACE::2020-10-29.01:57:28::SCWMssOS::"Compiling cpu"
+
+TRACE::2020-10-29.01:57:28::SCWMssOS::"Running Make libs in u_Micro_2_microblaze_0/libsrc/gpio_v4_5/src"
+
+TRACE::2020-10-29.01:57:28::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/gpio_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "
+TRACE::2020-10-29.01:57:28::SCWMssOS::COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections
+TRACE::2020-10-29.01:57:28::SCWMssOS:: -Wall -Wextra"
+
+TRACE::2020-10-29.01:57:28::SCWMssOS::"Compiling gpio"
+
+TRACE::2020-10-29.01:57:29::SCWMssOS::"Running Make libs in u_Micro_2_microblaze_0/libsrc/standalone_v7_1/src"
+
+TRACE::2020-10-29.01:57:29::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/standalone_v7_1/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb
+TRACE::2020-10-29.01:57:29::SCWMssOS::-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-se
+TRACE::2020-10-29.01:57:29::SCWMssOS::ctions -Wall -Wextra"
+
+TRACE::2020-10-29.01:57:29::SCWMssOS::"Compiling standalone";
+
+TRACE::2020-10-29.01:57:34::SCWMssOS::"Running Make libs in u_Micro_2_microblaze_0/libsrc/uartlite_v3_3/src"
+
+TRACE::2020-10-29.01:57:34::SCWMssOS::make -C u_Micro_2_microblaze_0/libsrc/uartlite_v3_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-a
+TRACE::2020-10-29.01:57:34::SCWMssOS::r" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sect
+TRACE::2020-10-29.01:57:34::SCWMssOS::ions -Wall -Wextra"
+
+TRACE::2020-10-29.01:57:34::SCWMssOS::"Compiling uartlite"
+
+TRACE::2020-10-29.01:57:35::SCWMssOS::'Finished building libraries'
+
+TRACE::2020-10-29.01:57:36::SCWMssOS::Copying to export directory.
+TRACE::2020-10-29.01:57:36::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-10-29.01:57:36::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2020-10-29.01:57:36::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2020-10-29.01:57:36::SCWSystem::Completed Processing the sysconfig top_tp8
+LOG::2020-10-29.01:57:36::SCWPlatform::Completed generating the artifacts for system configuration top_tp8
+TRACE::2020-10-29.01:57:36::SCWPlatform::Started preparing the platform 
+TRACE::2020-10-29.01:57:36::SCWSystem::Writing the bif file for system config top_tp8
+TRACE::2020-10-29.01:57:36::SCWSystem::dir created 
+TRACE::2020-10-29.01:57:36::SCWSystem::Writing the bif 
+TRACE::2020-10-29.01:57:36::SCWPlatform::Started writing the spfm file 
+TRACE::2020-10-29.01:57:36::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-10-29.01:57:36::SCWPlatform::Completed generating the platform
+TRACE::2020-10-29.01:57:36::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:36::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:36::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:36::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:57:36::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:36::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:57:36::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:57:36::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:57:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:57:36::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:36::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:57:36::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:36::SCWWriter::formatted JSON is {
+	"platformName":	"top_tp8",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"top_tp8",
+	"platHandOff":	"D:/dario/fulgor/programas_vivado/micro_tp8/top_tp8.xsa",
+	"platIntHandOff":	"<platformDir>/hw/top_tp8.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"top_tp8",
+	"systems":	[{
+			"systemName":	"top_tp8",
+			"systemDesc":	"top_tp8",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"top_tp8",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on u_Micro_2_microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"u_Micro_2_microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"a2238e36e978e3702a708ae709021afc",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-10-29.01:57:36::SCWPlatform::updated the xpfm file.
+TRACE::2020-10-29.01:57:36::SCWPlatform::Trying to open the hw design at D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:36::SCWPlatform::DSA given D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:36::SCWPlatform::DSA absoulate path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:36::SCWPlatform::DSA directory D:/dario/fulgor/workspace_tp8_1/top_tp8/hw
+TRACE::2020-10-29.01:57:36::SCWPlatform:: Platform Path D:/dario/fulgor/workspace_tp8_1/top_tp8/hw/top_tp8.xsa
+TRACE::2020-10-29.01:57:36::SCWPlatform:: Unique name xilinx:arty-a7-35::0.0
+TRACE::2020-10-29.01:57:36::SCWPlatform::Trying to set the existing hwdb with name top_tp8_0
+TRACE::2020-10-29.01:57:36::SCWPlatform::Opened existing hwdb top_tp8_0
+TRACE::2020-10-29.01:57:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-29.01:57:36::SCWMssOS::Checking the sw design at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2020-10-29.01:57:36::SCWMssOS::DEBUG:  swdes dump  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2020-10-29.01:57:36::SCWMssOS::Sw design exists and opened at  D:/dario/fulgor/workspace_tp8_1/top_tp8/u_Micro_2_microblaze_0/standalone_domain/bsp/system.mss

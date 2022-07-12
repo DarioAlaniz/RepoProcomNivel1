@@ -1,0 +1,561 @@
+01:12:52 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\dario\fulgor\workspace_tp8_1\temp_xsdb_launch_script.tcl
+01:12:59 INFO  : XSCT server has started successfully.
+01:12:59 INFO  : plnx-install-location is set to ''
+01:13:00 INFO  : Successfully done setting XSCT server connection channel  
+01:13:00 INFO  : Successfully done query RDI_DATADIR 
+01:13:00 INFO  : Successfully done setting workspace for the tool. 
+01:13:03 INFO  : Registering command handlers for Vitis TCF services
+01:17:09 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+01:20:46 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+01:22:26 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\dario\fulgor\workspace_tp8_1\temp_xsdb_launch_script.tcl
+01:22:38 INFO  : Registering command handlers for Vitis TCF services
+01:22:41 INFO  : XSCT server has started successfully.
+01:22:44 INFO  : plnx-install-location is set to ''
+01:22:44 INFO  : Successfully done query RDI_DATADIR 
+01:22:44 INFO  : Successfully done setting XSCT server connection channel  
+01:22:44 INFO  : Successfully done setting workspace for the tool. 
+01:23:03 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+01:23:39 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:23:58 INFO  : Connected to target on host 'localhost' and port '3121'.
+01:24:58 INFO  : Connected to target on host 'localhost' and port '3121'.
+01:26:58 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\dario\fulgor\workspace_tp8_1\temp_xsdb_launch_script.tcl
+01:27:11 INFO  : Registering command handlers for Vitis TCF services
+01:27:13 INFO  : XSCT server has started successfully.
+01:27:13 INFO  : plnx-install-location is set to ''
+01:27:15 INFO  : Successfully done setting XSCT server connection channel  
+01:27:15 INFO  : Successfully done query RDI_DATADIR 
+01:27:15 INFO  : Successfully done setting workspace for the tool. 
+01:27:36 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+01:35:09 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+01:36:42 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+01:37:06 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+01:40:36 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\dario\fulgor\workspace_tp8_1\temp_xsdb_launch_script.tcl
+01:40:49 INFO  : XSCT server has started successfully.
+01:40:49 INFO  : plnx-install-location is set to ''
+01:40:50 INFO  : Successfully done setting XSCT server connection channel  
+01:40:50 INFO  : Successfully done setting workspace for the tool. 
+01:40:50 INFO  : Successfully done query RDI_DATADIR 
+01:40:50 INFO  : Registering command handlers for Vitis TCF services
+01:41:01 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+01:54:57 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\dario\fulgor\workspace_tp8_1\temp_xsdb_launch_script.tcl
+01:55:06 INFO  : Registering command handlers for Vitis TCF services
+01:55:10 INFO  : XSCT server has started successfully.
+01:55:11 INFO  : plnx-install-location is set to ''
+01:55:11 INFO  : Successfully done setting XSCT server connection channel  
+01:55:11 INFO  : Successfully done query RDI_DATADIR 
+01:55:11 INFO  : Successfully done setting workspace for the tool. 
+01:55:25 INFO  : Connected to target on host 'localhost' and port '3121'.
+01:56:03 INFO  : Bit file 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit' is generated.
+01:56:36 INFO  : Bit file 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit' is generated.
+01:56:36 INFO  : Connected to target on host 'localhost' and port '3121'.
+01:56:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+01:56:42 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+01:57:36 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+01:58:04 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:58:05 INFO  : Jtag cable 'Digilent Arty 210319A2D006A' is selected.
+01:58:05 INFO  : 'jtag frequency' command is executed.
+01:58:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A2D006A" && level==0} -index 0' command is executed.
+01:58:11 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+01:58:12 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+01:58:12 ERROR : more than one targets found with "name =~ "*microblaze*#0" && bscan=="USER2" ":
+        3  MicroBlaze #0 (Running)
+        7  MicroBlaze #0 (Running)
+       11  MicroBlaze #0 (Running)
+       15  MicroBlaze #0 (Running)
+       19  MicroBlaze #0 (Running)
+01:58:12 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A2D006A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+----------------End of Script----------------
+
+01:58:12 ERROR : more than one targets found with "name =~ "*microblaze*#0" && bscan=="USER2" ":
+        3  MicroBlaze #0 (Running)
+        7  MicroBlaze #0 (Running)
+       11  MicroBlaze #0 (Running)
+       15  MicroBlaze #0 (Running)
+       19  MicroBlaze #0 (Running)
+01:58:22 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:58:43 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:58:43 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+01:58:43 INFO  : 'jtag frequency' command is executed.
+01:58:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+01:58:50 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+01:58:50 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+01:58:51 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+01:58:51 INFO  : System reset is completed.
+01:58:54 INFO  : 'after 3000' command is executed.
+01:58:54 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+01:58:55 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+01:58:55 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+01:58:55 INFO  : Memory regions updated for context MicroBlaze #0
+01:58:55 INFO  : Memory regions updated for context MicroBlaze #0
+01:58:56 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+01:58:56 INFO  : 'con' command is executed.
+01:58:56 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+01:58:56 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+02:09:16 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+02:09:44 INFO  : Disconnected from the channel tcfchan#3.
+02:09:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+02:09:44 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+02:09:44 INFO  : 'jtag frequency' command is executed.
+02:09:45 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+02:09:51 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+02:09:52 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+02:09:53 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:09:53 INFO  : System reset is completed.
+02:09:56 INFO  : 'after 3000' command is executed.
+02:09:56 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:09:57 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+02:09:57 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+02:09:57 INFO  : Memory regions updated for context MicroBlaze #0
+02:09:57 INFO  : Memory regions updated for context MicroBlaze #0
+02:09:59 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:10:00 INFO  : 'con' command is executed.
+02:10:00 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+02:10:00 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+02:13:40 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+02:13:57 INFO  : Disconnected from the channel tcfchan#4.
+02:13:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+02:13:57 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+02:13:58 INFO  : 'jtag frequency' command is executed.
+02:13:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+02:14:05 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+02:14:05 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+02:14:06 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:14:06 INFO  : System reset is completed.
+02:14:09 INFO  : 'after 3000' command is executed.
+02:14:09 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:14:10 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+02:14:10 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+02:14:10 INFO  : Memory regions updated for context MicroBlaze #0
+02:14:10 INFO  : Memory regions updated for context MicroBlaze #0
+02:14:11 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:14:11 INFO  : 'con' command is executed.
+02:14:11 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+02:14:11 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+02:23:27 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+02:23:37 INFO  : Disconnected from the channel tcfchan#5.
+02:23:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+02:23:38 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+02:23:38 INFO  : 'jtag frequency' command is executed.
+02:23:39 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+02:23:45 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+02:23:46 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+02:23:46 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:23:47 INFO  : System reset is completed.
+02:23:50 INFO  : 'after 3000' command is executed.
+02:23:50 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:23:50 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+02:23:50 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+02:23:51 INFO  : Memory regions updated for context MicroBlaze #0
+02:23:51 INFO  : Memory regions updated for context MicroBlaze #0
+02:23:51 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:23:51 INFO  : 'con' command is executed.
+02:23:51 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+02:23:51 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+02:29:21 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+02:29:32 INFO  : Disconnected from the channel tcfchan#6.
+02:29:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+02:29:33 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+02:29:33 INFO  : 'jtag frequency' command is executed.
+02:29:34 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+02:29:40 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+02:29:40 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+02:29:41 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:29:41 INFO  : System reset is completed.
+02:29:44 INFO  : 'after 3000' command is executed.
+02:29:44 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:29:45 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+02:29:45 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+02:29:45 INFO  : Memory regions updated for context MicroBlaze #0
+02:29:45 INFO  : Memory regions updated for context MicroBlaze #0
+02:29:45 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:29:45 INFO  : 'con' command is executed.
+02:29:45 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+02:29:45 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+02:37:20 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+02:37:34 INFO  : Disconnected from the channel tcfchan#7.
+02:37:34 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+02:37:34 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+02:37:34 INFO  : 'jtag frequency' command is executed.
+02:37:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+02:37:41 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+02:37:42 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+02:37:42 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:37:42 INFO  : System reset is completed.
+02:37:45 INFO  : 'after 3000' command is executed.
+02:37:46 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:37:46 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+02:37:46 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+02:37:47 INFO  : Memory regions updated for context MicroBlaze #0
+02:37:47 INFO  : Memory regions updated for context MicroBlaze #0
+02:37:47 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:37:47 INFO  : 'con' command is executed.
+02:37:47 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+02:37:47 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+02:49:30 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+02:49:40 INFO  : Disconnected from the channel tcfchan#8.
+02:49:41 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+02:49:41 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+02:49:41 INFO  : 'jtag frequency' command is executed.
+02:49:42 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+02:49:48 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+02:49:48 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+02:49:49 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:49:49 INFO  : System reset is completed.
+02:49:52 INFO  : 'after 3000' command is executed.
+02:49:52 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:49:53 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+02:49:53 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+02:49:53 INFO  : Memory regions updated for context MicroBlaze #0
+02:49:53 INFO  : Memory regions updated for context MicroBlaze #0
+02:49:54 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+02:49:54 INFO  : 'con' command is executed.
+02:49:54 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+02:49:54 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+02:57:40 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+02:58:36 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+03:01:01 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+03:01:09 INFO  : Disconnected from the channel tcfchan#9.
+03:01:09 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+03:01:10 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+03:01:10 INFO  : 'jtag frequency' command is executed.
+03:01:11 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+03:01:17 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+03:01:18 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+03:01:18 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+03:01:18 INFO  : System reset is completed.
+03:01:21 INFO  : 'after 3000' command is executed.
+03:01:21 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+03:01:22 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+03:01:22 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+03:01:23 INFO  : Memory regions updated for context MicroBlaze #0
+03:01:23 INFO  : Memory regions updated for context MicroBlaze #0
+03:01:23 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+03:01:23 INFO  : 'con' command is executed.
+03:01:23 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+03:01:23 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+03:15:47 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+03:16:01 INFO  : Disconnected from the channel tcfchan#10.
+03:16:01 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+03:16:02 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+03:16:02 INFO  : 'jtag frequency' command is executed.
+03:16:02 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+03:16:08 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+03:16:09 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+03:16:10 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+03:16:10 INFO  : System reset is completed.
+03:16:13 INFO  : 'after 3000' command is executed.
+03:16:13 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+03:16:13 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+03:16:13 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+03:16:14 INFO  : Memory regions updated for context MicroBlaze #0
+03:16:14 INFO  : Memory regions updated for context MicroBlaze #0
+03:16:14 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+03:16:14 INFO  : 'con' command is executed.
+03:16:14 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+03:16:14 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+03:19:13 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+03:19:21 INFO  : Disconnected from the channel tcfchan#11.
+03:19:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+03:19:22 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+03:19:22 INFO  : 'jtag frequency' command is executed.
+03:19:23 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+03:19:29 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+03:19:29 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+03:19:30 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+03:19:30 INFO  : System reset is completed.
+03:19:33 INFO  : 'after 3000' command is executed.
+03:19:33 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+03:19:34 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+03:19:34 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+03:19:34 INFO  : Memory regions updated for context MicroBlaze #0
+03:19:34 INFO  : Memory regions updated for context MicroBlaze #0
+03:19:35 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+03:19:35 INFO  : 'con' command is executed.
+03:19:35 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+03:19:35 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+03:33:41 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+03:34:05 INFO  : Disconnected from the channel tcfchan#12.
+18:03:05 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\dario\fulgor\workspace_tp8_1\temp_xsdb_launch_script.tcl
+18:03:16 INFO  : Registering command handlers for Vitis TCF services
+18:03:19 INFO  : XSCT server has started successfully.
+18:03:19 INFO  : plnx-install-location is set to ''
+18:03:23 INFO  : Successfully done setting XSCT server connection channel  
+18:03:23 INFO  : Successfully done query RDI_DATADIR 
+18:03:23 INFO  : Successfully done setting workspace for the tool. 
+19:08:06 INFO  : Bit file 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit' is generated.
+19:08:06 INFO  : Connected to target on host 'localhost' and port '3121'.
+19:08:07 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+19:08:16 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+19:08:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:08:37 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+19:08:37 INFO  : 'jtag frequency' command is executed.
+19:08:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+19:08:44 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+19:08:45 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:08:45 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+19:08:45 INFO  : System reset is completed.
+19:08:48 INFO  : 'after 3000' command is executed.
+19:08:48 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+19:08:49 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+19:08:49 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+19:08:49 INFO  : Memory regions updated for context MicroBlaze #0
+19:08:49 INFO  : Memory regions updated for context MicroBlaze Debug Module at USER2
+19:08:50 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+19:08:50 INFO  : 'con' command is executed.
+19:08:50 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+19:08:50 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+19:22:20 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+19:23:43 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+19:23:53 INFO  : Disconnected from the channel tcfchan#2.
+19:23:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:23:54 INFO  : Jtag cable 'Digilent Arty 210319A288D7A' is selected.
+19:23:54 INFO  : 'jtag frequency' command is executed.
+19:23:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0' command is executed.
+19:24:01 INFO  : FPGA configured successfully with bitstream "D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit"
+19:24:02 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+19:24:02 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+19:24:02 INFO  : System reset is completed.
+19:24:05 INFO  : 'after 3000' command is executed.
+19:24:06 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+19:24:06 INFO  : The application 'D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf' is downloaded to processor 'u_Micro_2_microblaze_0'.
+19:24:06 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty 210319A288D7A" && level==0} -index 0
+fpga -file D:/dario/fulgor/workspace_tp8_1/micro_tp8/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+dow D:/dario/fulgor/workspace_tp8_1/micro_tp8/Debug/micro_tp8.elf
+----------------End of Script----------------
+
+19:24:07 INFO  : Memory regions updated for context MicroBlaze #0
+19:24:07 INFO  : Memory regions updated for context MicroBlaze Debug Module at USER2
+19:24:07 INFO  : Context for processor 'u_Micro_2_microblaze_0' is selected.
+19:24:07 INFO  : 'con' command is executed.
+19:24:07 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2"  && jtag_cable_name =~ "Digilent Arty 210319A288D7A"} -index 0
+con
+----------------End of Script----------------
+
+19:24:07 INFO  : Launch script is exported to file 'D:\dario\fulgor\workspace_tp8_1\.sdk\launch_scripts\single_application_debug\systemdebugger_micro_tp8_system_standalone.tcl'
+21:05:52 WARN  : channel "tcfchan#3" closed
+03:05:27 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+03:09:15 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+03:13:48 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+03:14:01 INFO  : Checking for BSP changes to sync application flags for project 'micro_tp8'...
+13:44:29 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\dario\fulgor\workspace_tp8_1\temp_xsdb_launch_script.tcl
+13:44:40 INFO  : XSCT server has started successfully.
+13:44:40 INFO  : plnx-install-location is set to ''
+13:44:40 INFO  : Successfully done setting XSCT server connection channel  
+13:44:40 INFO  : Successfully done setting workspace for the tool. 
+13:44:42 INFO  : Registering command handlers for Vitis TCF services
+13:44:49 INFO  : Successfully done query RDI_DATADIR 
+16:22:26 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\dario\fulgor\workspace_tp8_1\temp_xsdb_launch_script.tcl
+16:22:37 INFO  : XSCT server has started successfully.
+16:22:37 INFO  : plnx-install-location is set to ''
+16:22:37 INFO  : Successfully done setting XSCT server connection channel  
+16:22:37 INFO  : Successfully done setting workspace for the tool. 
+16:22:38 INFO  : Registering command handlers for Vitis TCF services
+16:22:42 INFO  : Successfully done query RDI_DATADIR 
+16:26:23 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+16:26:45 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+16:28:24 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+16:29:32 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+16:31:24 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+16:36:05 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+16:37:02 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\dario\fulgor\workspace_tp8_1\temp_xsdb_launch_script.tcl
+16:37:13 INFO  : Registering command handlers for Vitis TCF services
+16:37:15 INFO  : XSCT server has started successfully.
+16:37:16 INFO  : plnx-install-location is set to ''
+16:37:16 INFO  : Successfully done setting XSCT server connection channel  
+16:37:16 INFO  : Successfully done query RDI_DATADIR 
+16:37:16 INFO  : Successfully done setting workspace for the tool. 
+16:39:48 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+16:49:53 ERROR : Failed to connect to hardware server on host 'localhost' and port '3121'.
+Reason: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión

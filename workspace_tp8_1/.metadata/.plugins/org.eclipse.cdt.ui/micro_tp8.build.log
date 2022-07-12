@@ -1,0 +1,30 @@
+03:14:01 **** Incremental Build of configuration Debug for project micro_tp8 ****
+make all 
+'Building file: ../src/protocolo_main1.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/protocolo_main1.o" -ID:/dario/fulgor/workspace_tp8_1/top_tp8/export/top_tp8/sw/top_tp8/standalone_domain/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/protocolo_main1.d" -MT"src/protocolo_main1.o" -o "src/protocolo_main1.o" "../src/protocolo_main1.c"
+../src/protocolo_main1.c: In function 'main':
+../src/protocolo_main1.c:106:3: warning: implicit declaration of function 'read'; did you mean 'fread'? [-Wimplicit-function-declaration]
+   read(stdin,&trama,1);   //lee el registro de entrada del uart y lo guarda en la poscion de memoria de cabesera y lea un byte
+   ^~~~
+   fread
+../src/protocolo_main1.c:114:19: warning: implicit declaration of function 'XUartLite_RecvByte'; did you mean 'XUartLite_Recv'? [-Wimplicit-function-declaration]
+     datos_rec[i]= XUartLite_RecvByte((&uart_module)->RegBaseAddress);  //obtengo cada byte
+                   ^~~~~~~~~~~~~~~~~~
+                   XUartLite_Recv
+'Finished building: ../src/protocolo_main1.c'
+' '
+'Building target: micro_tp8.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LD:/dario/fulgor/workspace_tp8_1/top_tp8/export/top_tp8/sw/top_tp8/standalone_domain/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "micro_tp8.elf"  ./src/platform.o ./src/protocolo_main1.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: micro_tp8.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size micro_tp8.elf  |tee "micro_tp8.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  12000	    668	   3252	  15920	   3e30	micro_tp8.elf
+'Finished building: micro_tp8.elf.size'
+' '
+
+03:14:03 Build Finished (took 1s.740ms)
+

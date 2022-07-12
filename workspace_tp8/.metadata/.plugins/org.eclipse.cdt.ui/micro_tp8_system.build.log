@@ -1,0 +1,6 @@
+00:48:24 **** Build of configuration Debug for project micro_tp8_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+00:48:25 Build Finished (took 262ms)
+

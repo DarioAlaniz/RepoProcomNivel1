@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="micro_tp8" location="D:/dario/fulgor/workspace_tp8/micro_tp8" platform="D:/dario/fulgor/workspace_tp8/top_tp8/export/top_tp8/top_tp8.xpfm" platformUID="xilinx:arty-a7-35::0.0(custom)" systemProject="micro_tp8_system" sysConfig="top_tp8" runtime="cpp" cpu="standalone_domain" cpuInstance="u_Micro_2_microblaze_0" os="standalone" mssSignature="03da5385727b6813bd7484181b01959e">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1463550465">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.968592635" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

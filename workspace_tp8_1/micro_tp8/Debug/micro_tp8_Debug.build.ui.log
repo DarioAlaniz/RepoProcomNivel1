@@ -1,0 +1,30 @@
+2020-10-31T03:14:01.65371600255-03:14:01 **** Incremental Build of configuration Debug for project micro_tp8 ****
+000-make all 
+000-'Building file: ../src/protocolo_main1.c'
+000-'Invoking: MicroBlaze gcc compiler'
+000-mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/protocolo_main1.o" -ID:/dario/fulgor/workspace_tp8_1/top_tp8/export/top_tp8/sw/top_tp8/standalone_domain/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/protocolo_main1.d" -MT"src/protocolo_main1.o" -o "src/protocolo_main1.o" "../src/protocolo_main1.c"
+000-../src/protocolo_main1.c: In function 'main':
+000/micro_tp8/src/protocolo_main1.c106-1-1implicit declaration of function 'read'; did you mean 'fread'? [-Wimplicit-function-declaration]1-../src/protocolo_main1.c:106:3: warning: implicit declaration of function 'read'; did you mean 'fread'? [-Wimplicit-function-declaration]
+000-   read(stdin,&trama,1);   //lee el registro de entrada del uart y lo guarda en la poscion de memoria de cabesera y lea un byte
+000-   ^~~~
+000-   fread
+000/micro_tp8/src/protocolo_main1.c114-1-1implicit declaration of function 'XUartLite_RecvByte'; did you mean 'XUartLite_Recv'? [-Wimplicit-function-declaration]1-../src/protocolo_main1.c:114:19: warning: implicit declaration of function 'XUartLite_RecvByte'; did you mean 'XUartLite_Recv'? [-Wimplicit-function-declaration]
+000-     datos_rec[i]= XUartLite_RecvByte((&uart_module)->RegBaseAddress);  //obtengo cada byte
+000-                   ^~~~~~~~~~~~~~~~~~
+000-                   XUartLite_Recv
+000-'Finished building: ../src/protocolo_main1.c'
+000-' '
+000-'Building target: micro_tp8.elf'
+000-'Invoking: MicroBlaze gcc linker'
+000-mb-gcc -Wl,-T -Wl,../src/lscript.ld -LD:/dario/fulgor/workspace_tp8_1/top_tp8/export/top_tp8/sw/top_tp8/standalone_domain/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "micro_tp8.elf"  ./src/platform.o ./src/protocolo_main1.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-'Finished building target: micro_tp8.elf'
+000-' '
+000-'Invoking: MicroBlaze Print Size'
+000-mb-size micro_tp8.elf  |tee "micro_tp8.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000-  12000	    668	   3252	  15920	   3e30	micro_tp8.elf
+000-'Finished building: micro_tp8.elf.size'
+000-' '
+00255-
+03:14:03 Build Finished (took 1s.740ms)
+
